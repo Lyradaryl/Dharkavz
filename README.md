@@ -38,3 +38,7 @@ This project runs AI locally on the device using QVAC.
 ## License
 
 MIT License
+
+## Project Status
+
+This project is a working local AI application using QVAC.
